@@ -8,13 +8,13 @@ gem 'rails', '4.2.5.1'
 
 # gem 'sqlite3'
 
-group :development do
-  gem 'sqlite3'
-end
-
-group :production do
-  gem 'pg'
-end
+# group :development do
+#   gem 'sqlite3'
+# end
+#
+# group :production do
+gem 'pg'
+# end
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
