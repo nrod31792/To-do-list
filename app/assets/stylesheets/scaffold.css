@@ -1,7 +1,28 @@
-body { background-color: #fff; color: #333; }
+body, h1 {
+
+
+
+
+
+  background-color: 33;
+  background-size: 100px;
+  font-family: 'Roboto', sans-serif;
+
+
+
+
+}
+
+
+body {
+  background-color: #white;
+
+
+
+}
 
 body, p, ol, ul, td {
-  font-family: verdana, arial, helvetica, sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size:   13px;
   line-height: 18px;
 }
